@@ -1,0 +1,18 @@
+
+ul.woco_authors {
+    list-style: none;
+    padding: 0px;
+}
+
+ul.woco_authors li {
+    display: inline-block;
+    padding-right: 10px;
+}
+
+ul.woco_authors li a { 
+    display: flex;
+}
+
+span.woco_authors_label {
+    padding-left: 5px;
+}
